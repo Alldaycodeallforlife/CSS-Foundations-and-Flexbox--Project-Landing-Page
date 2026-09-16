@@ -11,20 +11,15 @@ A flexbox landing page built to the assignment spec:
 - Info section heading: 36px, weight 900, `#1F2937`
 - Quote section: background `#E5E7EB`, text 36px, weight 300, italic, `#1F2937`
 
-## About the images
+## Image credits
 
-The gray boxes labeled "150x150" / "Product screenshot 600x400" are
-placeholders. Swap them for real images before submitting — for example
-from [Unsplash](https://unsplash.com), [Pexels](https://pexels.com), or
-[Pixabay](https://pixabay.com), all of which are free to use.
+All photos are free to use under the [Unsplash License](https://unsplash.com/license).
 
-**When you add real images, credit the creator here:**
-
-- Hero image: [photographer name], via [Unsplash/Pexels/Pixabay] — link
-- Info image 1: ...
-- Info image 2: ...
-- Info image 3: ...
-- Info image 4: ...
+- Hero image: ["Team collaborating around a computer in an office"](https://unsplash.com/photos/team-collaborating-around-a-computer-in-an-office-UikYLDQj9_I) by [Vitaly Gariev](https://unsplash.com/@silverkblack)
+- Info image 1 (Real-time sync): ["Person using phone and laptop"](https://unsplash.com/photos/person-using-phone-and-laptop-gUIJ0YszPig) by [Austin Distel](https://unsplash.com/@austindistel)
+- Info image 2 (Automations): ["Six white sticky notes"](https://unsplash.com/photos/six-white-sticky-notes--1_RZL8BGBM) by [Kelly Sikkema](https://unsplash.com/@kellysikkema)
+- Info image 3 (Views): ["Graphs of performance analytics on a laptop screen"](https://unsplash.com/photos/graphs-of-performance-analytics-on-a-laptop-screen-JKUTrJ4vK00) by [Luke Chesser](https://unsplash.com/@lukechesser)
+- Info image 4 (Security): ["A golden padlock sitting on top of a keyboard"](https://unsplash.com/photos/a-golden-padlock-sitting-on-top-of-a-keyboard-FnA5pAzqhMM) by [Towfiqu barbhuiya](https://unsplash.com/@towfiqu999999)
 
 ## Files
 
